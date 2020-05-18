@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
     <img src="https://www.alura.com.br/assets/img/alura-logo.1570550707.svg">
     </br>
     AULAS DE SWIFT NA ALURA
@@ -15,6 +15,36 @@
 - Criar variáveis
 - Desenhar telas com Storyboard
 - Conectar elementos do storyboard no ViewController
+
+### 02 - Aprendendo Swift no playground
+
+- Utilizar o `playground` para aprender a sintaxe da linguagem Swift
+- Fazer comentários
+- Utilizar funções
+
+### 03 -  Arrays e tipos de laço for
+
+- Utilizar array
+- Usar o `for` para percorrer listas
+- Variações do uso do `for`
+
+### 04 -  Classes, instâncias, objetos e propriedades de nossas refeições
+
+- Introdução à orientação a objetos em Swift
+- Criar classes
+- Trabalhar com instâncias
+- Propriedades da classe
+
+### 05 -  Good Citizen e criando classes e aplicativos que nunca quebram com nulos
+
+- Método construtor para evitar `optionals`
+- Criar classes
+- Utilizar array como atributo da classe
+
+### 06 -  Organizando o projeto com grupos
+
+- Aplicar o código que desenvolvemos no `playground` no projeto
+- Organizar o projeto em grupos
 
 ## [Swift parte 2: UIKit, storyboard e o padrão delegate](https://cursos.alura.com.br/course/swift-uikit-storyboard)
 
